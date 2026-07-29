@@ -1,9 +1,8 @@
-# Student Information System
+git commit -m "Resolved merge conflict"# Student Information System
 
 ## BSIT Group Project
 
-This repository contains our Student Information System web application. Philippine Atmospheric Geophysical AStronomical, Services and Administration
-This repository contains our Student Information System web application..........
+This repository contains our Student Information System web application.
 
 ## Members
 - Leader: Paulino, Audley bond
@@ -11,3 +10,5 @@ This repository contains our Student Information System web application.........
 - Front-end Developer:Soriano, Eisen Miro V.
 - Back-end Developer: Mendoza, Jericho H.
 - Documentation Member: Santos, John Phillip C.
+
+Project Status: Completed by Leader asd
