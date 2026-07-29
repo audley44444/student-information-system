@@ -10,3 +10,5 @@ This repository contains our Student Information System web application.
 - Front-end Developer:Soriano, Eisen Miro V.
 - Back-end Developer: Mendoza, Jericho H.
 - Documentation Member: Santos, John Phillip C.
+
+Project Status: Completed by Leader
