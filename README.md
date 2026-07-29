@@ -2,7 +2,7 @@
 
 ## BSIT Group Project
 
-This repository contains our Student Information System web application.
+This repository contains our Student Information System web application..........
 
 ## Members
 - Leader: Paulino, Audley bond
