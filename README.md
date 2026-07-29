@@ -2,6 +2,7 @@
 
 ## BSIT Group Project
 
+This repository contains our Student Information System web application. Philippine Atmospheric Geophysical AStronomical, Services and Administration
 This repository contains our Student Information System web application..........
 
 ## Members
